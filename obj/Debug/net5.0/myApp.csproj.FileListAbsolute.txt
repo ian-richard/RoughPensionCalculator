@@ -1,0 +1,15 @@
+/Users/ianfidd/Documents/Code/c-sharp/PensionCalc/myApp/bin/Debug/net5.0/myApp.deps.json
+/Users/ianfidd/Documents/Code/c-sharp/PensionCalc/myApp/bin/Debug/net5.0/myApp.runtimeconfig.json
+/Users/ianfidd/Documents/Code/c-sharp/PensionCalc/myApp/bin/Debug/net5.0/myApp.runtimeconfig.dev.json
+/Users/ianfidd/Documents/Code/c-sharp/PensionCalc/myApp/bin/Debug/net5.0/myApp.dll
+/Users/ianfidd/Documents/Code/c-sharp/PensionCalc/myApp/bin/Debug/net5.0/ref/myApp.dll
+/Users/ianfidd/Documents/Code/c-sharp/PensionCalc/myApp/bin/Debug/net5.0/myApp.pdb
+/Users/ianfidd/Documents/Code/c-sharp/PensionCalc/myApp/obj/Debug/net5.0/myApp.csproj.AssemblyReference.cache
+/Users/ianfidd/Documents/Code/c-sharp/PensionCalc/myApp/obj/Debug/net5.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianfidd/Documents/Code/c-sharp/PensionCalc/myApp/obj/Debug/net5.0/myApp.AssemblyInfoInputs.cache
+/Users/ianfidd/Documents/Code/c-sharp/PensionCalc/myApp/obj/Debug/net5.0/myApp.AssemblyInfo.cs
+/Users/ianfidd/Documents/Code/c-sharp/PensionCalc/myApp/obj/Debug/net5.0/myApp.csproj.CoreCompileInputs.cache
+/Users/ianfidd/Documents/Code/c-sharp/PensionCalc/myApp/obj/Debug/net5.0/myApp.dll
+/Users/ianfidd/Documents/Code/c-sharp/PensionCalc/myApp/obj/Debug/net5.0/ref/myApp.dll
+/Users/ianfidd/Documents/Code/c-sharp/PensionCalc/myApp/obj/Debug/net5.0/myApp.pdb
+/Users/ianfidd/Documents/Code/c-sharp/PensionCalc/myApp/obj/Debug/net5.0/myApp.genruntimeconfig.cache
